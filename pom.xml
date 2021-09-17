@@ -37,8 +37,6 @@
 				     <password>Amir122306</password>
 				     <applicationName>cloudhubproject</applicationName>
 				     <environment>Sandbox</environment>
-				     
-				     
 				     <workerType>MICRO</workerType>
 				     <objectStoreV2>true</objectStoreV2>
 				  </cloudHubDeployment>
