@@ -1,0 +1,3 @@
+http:
+     path: "/cloud"
+     port: "8084"
